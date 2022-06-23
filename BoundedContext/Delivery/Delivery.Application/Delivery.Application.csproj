@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Order\Order.Contract\Order.Contract.csproj" />
+      <ProjectReference Include="..\Delivery.Contract\Delivery.Contract.csproj" />
+      <ProjectReference Include="..\Delivery.Domain\Delivery.Domain.csproj" />
+      <ProjectReference Include="..\Delivery.Infrastructure\Delivery.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

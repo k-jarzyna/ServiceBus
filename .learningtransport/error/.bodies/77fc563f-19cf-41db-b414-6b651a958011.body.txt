@@ -1,0 +1,1 @@
+<?xml version="1.0"?><CompleteDeliveryCommand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/Delivery.Contract.Command"><DeliveryId>49fa9601-b816-4a1d-ad62-6b573c542f20</DeliveryId></CompleteDeliveryCommand>
